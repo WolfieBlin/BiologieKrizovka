@@ -83,6 +83,7 @@ namespace pokusTextFile
                 if (moznaSlovaPisemno.Count == 0)
                 {
                     Console.WriteLine("Žádné slovo nesplňujě podmínky");
+                    pokracovat = false;
                 }
                 else
                 {
