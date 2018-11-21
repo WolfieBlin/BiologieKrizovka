@@ -14,7 +14,7 @@ namespace pokusTextFile
             var moznaSlova = new List<string>();
             var moznaSlovaPisemno = new List<string>();
 
-            var logFile = File.ReadAllText(@"C:\Users\ufon2\OneDrive\Dokumenty\biologie.txt", Encoding.Default);
+            var logFile = File.ReadAllText(@"C:\Users\ufon2\Desktop\Biologie Křížovka\biologie.txt", Encoding.Default);
 
             var punctuation = logFile.Where(Char.IsPunctuation).Distinct().ToArray();
             var words = logFile.Split().Select(x => x.Trim(punctuation));
