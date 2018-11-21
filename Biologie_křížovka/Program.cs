@@ -18,6 +18,7 @@ namespace pokusTextFile
 
             var punctuation = logFile.Where(Char.IsPunctuation).Distinct().ToArray();
             var words = logFile.Split().Select(x => x.Trim(punctuation));
+            words = words.Distinct().ToList();
 
             foreach (var word in words)
             {
