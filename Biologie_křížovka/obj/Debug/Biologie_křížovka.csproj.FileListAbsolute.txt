@@ -1,0 +1,6 @@
+C:\Users\ufon2\Disk Google\+++Programko\C#\Biologie_křížovka\Biologie_křížovka\bin\Debug\Biologie_křížovka.exe
+C:\Users\ufon2\Disk Google\+++Programko\C#\Biologie_křížovka\Biologie_křížovka\bin\Debug\Biologie_křížovka.pdb
+C:\Users\ufon2\Disk Google\+++Programko\C#\Biologie_křížovka\Biologie_křížovka\obj\Debug\Biologie_křížovka.csprojAssemblyReference.cache
+C:\Users\ufon2\Disk Google\+++Programko\C#\Biologie_křížovka\Biologie_křížovka\obj\Debug\Biologie_křížovka.csproj.CoreCompileInputs.cache
+C:\Users\ufon2\Disk Google\+++Programko\C#\Biologie_křížovka\Biologie_křížovka\obj\Debug\Biologie_křížovka.exe
+C:\Users\ufon2\Disk Google\+++Programko\C#\Biologie_křížovka\Biologie_křížovka\obj\Debug\Biologie_křížovka.pdb
